@@ -1,3 +1,3 @@
-import CustomCounter from "./components/app.component";
+import CustomCounter from './components/app.component'
 
-export { CustomCounter };
+export { CustomCounter }
